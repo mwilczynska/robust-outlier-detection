@@ -1,7 +1,7 @@
 # Outliers
 
 # Set working directory
-setwd("/media/chawinski/data/Documents/work/InsightsandAnalyticsOfficer/r/outliers/images")
+setwd("/your/directory")
 
 # Install required packages if not already installed
 #install.packages(c("robustbase", "dbscan", "fpc", "factoextra", "randomForest)
